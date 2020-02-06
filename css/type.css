@@ -7,3 +7,12 @@
 
  margin-bottom: 100px;
 }
+
+.header_button {
+
+ background-color: transparent;
+border: solid white;
+ width: 230px;
+ height: 68px;
+ color: white;
+}
